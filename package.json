@@ -1,0 +1,25 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "node-mailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-donoso/node-mailer.git"
+  },
+  "author": "pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-donoso/node-mailer/issues"
+  },
+  "homepage": "https://github.com/pedro-donoso/node-mailer#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
