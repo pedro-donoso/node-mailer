@@ -3,7 +3,7 @@
 
 ## Steps:
 
-1. Installations:
+1. Installations -> in terminal:
 
 ```
 npm i nodemon nodemailer axios uuid express
