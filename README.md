@@ -2,16 +2,15 @@ node-mailer
 
 ## Steps:
 
-1. Installatios:
+1. Installations:
 
 ```
-npm i nodemon nodemailer axios uuid
-```
-
-2. Install Nodemailer:
+npm i nodemon nodemailer axios uuid express
 
 ```
-npm i nodemailer
-```
 
-3. 
+2. Run nodemon:
+```
+nodemon index.js
+
+```
