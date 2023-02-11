@@ -19,7 +19,7 @@
   "dependencies": {
     "axios": "^0.21.4",
     "nodemailer": "^6.6.5",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.20",
     "uuid": "^8.3.2"
   }
 }
